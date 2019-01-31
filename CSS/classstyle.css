@@ -1,0 +1,22 @@
+h1	{
+	color: red;
+	text-decoration: underline;
+}
+body	{
+	background-color: yellow;
+	font-family: sans-serif;
+}
+li	{
+	color: blue;
+	font-weight: bold;
+	font-size: 19px;
+}
+.lione	{
+	color: orange;
+}
+.bfont	{
+	font-size:40px;
+}
+.litwo	{
+	color: green;
+}

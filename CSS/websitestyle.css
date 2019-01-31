@@ -1,0 +1,71 @@
+h1	{
+	color: white;
+	font-family: "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 7px;
+	text-shadow: 3px 3px black;
+}
+.smallerimg	{
+	width: 40%;
+}
+h3		{
+	font-size: 16px;
+	text-decoration: underline;
+	font-style: italic;
+	color: #0F7D84;
+	text-align: center;
+}
+h2		{
+	font-family: Cambria, Georgia, serif;
+	color:#0F7D84;
+}
+body		{
+	background-color: #E7650B;
+}
+.wrapper		{
+	width: 65%;
+	background-color: #31C6B9;
+	margin: 0 auto;
+	padding: 15px;
+	border: dashed white 5px;
+	margin-top: 36px;
+	margin-bottom: 36px;
+}
+img		{
+	border: double #E7650B 10px;
+}
+p	{
+	color: white;
+}
+.center	{
+	text-align: center;
+}
+.underline	{
+	text-decoration-style: dotted;
+	text-decoration-line: underline;
+}
+a {
+	color: #F4BC6B;
+}
+section	{
+	background-color:#0F7D84;
+	padding: 20px;
+	border-top: double #115655 13px;
+	border-bottom: double #115655 13px;
+	border-left: none;
+	border-right: none;
+}
+.h1bigsize	{
+	font-size: 30px;
+}
+.footercenter	{
+	text-align: center;
+}
+.noborder	{
+	border-top: none;
+	border-bottom: none;
+}
+.noright	{
+	padding-right: none;
+}
