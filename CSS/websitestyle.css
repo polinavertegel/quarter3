@@ -47,6 +47,8 @@ p	{
 }
 a {
 	color: #0F7D84;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+	font-size: 14px;
 }
 section	{
 	background-color:#0F7D84;
