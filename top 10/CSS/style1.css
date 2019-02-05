@@ -47,3 +47,12 @@ ol	{
 footer	{
 	text-align: center;
 }
+a:visited	{
+	color: #6CA0C2;
+}
+a:hover	{
+	color:#E3A7E2;
+}
+a {
+	color: #5958A0;
+}

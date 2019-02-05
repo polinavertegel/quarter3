@@ -46,7 +46,7 @@ p	{
 	text-decoration-line: underline;
 }
 a {
-	color: #F4BC6B;
+	color: #0F7D84;
 }
 section	{
 	background-color:#0F7D84;
@@ -68,4 +68,10 @@ section	{
 }
 .noright	{
 	padding-right: none;
+}
+a:visited	{
+	color:#F4BC6B;
+}
+a:hover	{
+	color: #0F7D84;
 }
