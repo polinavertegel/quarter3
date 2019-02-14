@@ -1,0 +1,46 @@
+body	{
+	font-size: 20px
+}
+h1	{
+	font-size: 60px;
+	text-align:center;
+}
+h2	{
+	font-size: 40px;
+	margin-left: 10px;
+}
+.lfloat	{
+	float: left;
+}
+img	{
+	border: 5px solid black;
+	margin: 10px;
+	width: 300px;
+}
+h3	{
+	font-size: 30px;
+	font-style: italic;
+}
+.cleared	{
+	display: flow-root;
+}
+section	{
+	background-color: red;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+.wrapper	{
+	width: 80%;
+	margin: 0 auto;
+	border: 5px black solid;
+	padding:10px;
+	background-color: #B3995D;
+}
+footer	{
+	background-color: #AA0000;
+	text-align: center;
+	color: white;
+}
+.rfloat	{
+	float: right;
+}

@@ -57,4 +57,18 @@ a:hover	{
 }
 a {
 	color:#A4829D;
+	display: block;
+	padding: 5px;
+	margin: 7px auto;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+	font-size: 14px;
+	background-color: #5958A0;
+	width:40%;
+	border: solid 2px #E3F4DF;
+}
+nav	{
+	text-align: center;
+}
+.nocolorlink	{
+	background-color: white;
 }

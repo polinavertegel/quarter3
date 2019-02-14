@@ -41,3 +41,14 @@ body	{
 .bluep	{
 	background-color: #16839A;
 }
+a {
+	color: white;
+	font-size: 14px;
+	border: solid 2px white;
+	display: block;
+	padding: 4px;
+	margin: 7px auto;
+	background-color: #BDC3C7;
+	text-align: center;
+	width: 40%;
+}

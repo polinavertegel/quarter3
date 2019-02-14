@@ -11,15 +11,14 @@ h1	{
 }
 h3		{
 	font-size: 16px;
-	font-style: italic;
-	color: white;
-	text-align: center;
 	text-decoration: underline;
+	font-style: italic;
+	color: #0F7D84;
+	text-align: center;
 }
 h2		{
 	font-family: Cambria, Georgia, serif;
 	color:#0F7D84;
-	text-align: center;
 }
 body		{
 	background-color: #E7650B;
@@ -32,7 +31,6 @@ body		{
 	border: dashed white 5px;
 	margin-top: 36px;
 	margin-bottom: 36px;
-	text-align: center;
 }
 img		{
 	border: double #E7650B 10px;
@@ -51,13 +49,6 @@ a {
 	color: #0F7D84;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif; 
 	font-size: 14px;
-	border: solid 2px #0F7D84;
-	display: block;
-	padding: 4px;
-	margin: 7px auto;
-	background-color: #E7650B;
-	text-align: center;
-	width: 40%;
 }
 section	{
 	background-color:#0F7D84;
@@ -85,17 +76,4 @@ a:visited	{
 }
 a:hover	{
 	color: #0F7D84;
-	size: 16px;
-}
-nav	{
-	text-align: center;
-}
-.smallermargin	{
-	margin: 25px auto;
-}
-.biggerimg	{
-	width: 80%;
-}
-.whiteborder	{
-	border: 2px white solid;
 }

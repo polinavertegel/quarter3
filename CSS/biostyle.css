@@ -76,3 +76,26 @@ li{
 .border{
 	border: dotted #5485F0 5px;
 }
+a {
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	display: block;
+	margin: 7px auto;
+	padding: 4px;
+	text-align: center;
+	border: solid #F4F7A7 2px;
+	background-color: #5485F0;
+	font-size: 14px;
+	width: 40%;
+}
+nav	{
+	text-align: center;
+}
+.h1center	{
+	text-align:center;
+}
+a:visited	{
+	color: #F4F7A7;
+}
+a:hover	{
+	color: #F7AAA7
+}
