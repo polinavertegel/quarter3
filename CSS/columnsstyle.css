@@ -1,0 +1,130 @@
+h1	{
+	text-align: center;
+	font-size: 46px;
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	text-shadow: black 3px 3px;
+}
+body	{
+	background-color: #124B57;
+}
+.smallertext	{
+	font-size: 18px;
+}
+.centertext	{
+	text-align: center;
+}
+.smallimg	{
+	width: 500px;
+}
+.centerimg	{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.wrapper	{
+	width: 67%;
+	margin: 0 auto;
+	padding: 18px;
+	margin-top: 20px;
+	background-color: #298881;
+	color: white;
+	border: dashed 9px #8EBF8E;
+}
+.coll	{
+	float: left;
+	width: 28%;
+}
+.colr	{
+	float: right;
+	width: 68%;
+}
+.smallerimg	{
+	width: 200px;
+}
+.floatl	{
+	float: left;
+}
+.floatr	{
+	float: right;
+}
+.cleared	{
+	display: flow-root;
+}
+.imgpadding	{
+	padding: 6px;
+}
+.leftmargin	{
+	margin-left: 3px;
+}
+img {
+	border: 5px double #49676D;
+	margin: 7px;
+}
+.bigborder	{
+	border: 11px double #A3803E;
+}
+h3	{
+	font-size: 22px;
+	font-family: Cambria, Georgia, serif;
+	color: #124B57;
+}
+.ingredients	{
+	background-color: #8EBF8E;
+	border: solid 2px #124B57;
+}
+.topmargin	{
+	margin-top: 6px;
+}
+h2	{
+	font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+.underline	{
+	text-decoration: underline;
+}
+.brown	{
+	background-color: #A3803E;
+}
+p {
+	font-family: Cambria, Georgia, serif;
+	color: #124B57;
+}
+ul {
+	 font-family: Cambria, Georgia, serif;
+}
+.listfont	{
+	font-size: 20px;
+}
+video	{
+	border: 5px double #49676D;
+	margin-right: 5px;
+	margin-top: 5px;
+}
+article	{
+	display: inline-block;
+	padding: 4px;
+}
+.articleborder	{
+	border: 2px solid #298881;
+}
+.darkblue	{
+	background-color: #124B57;
+}
+.whitefont	{
+	color:white;
+}
+.green	{
+	color: #8EBF8E;
+}
+a {
+	width: 15%;
+	background-color:white;
+	font-size:18px;
+	margin: 7px auto;
+	padding: 4px;
+	text-align: center;
+	color:black;
+	font-family: Cambria, Georgia, serif;
+}
+nav	{
+	text-align: center;
+}

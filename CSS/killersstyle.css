@@ -76,13 +76,15 @@ a {
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif; 
 	font-size: 14px;
 	border: solid 2px #E63462;
-	display: block;
 	padding: 4px;
 	margin: 7px auto;
 	background-color: #333745;
 	text-align: center;
-	width: 20%;
+	width: 15%;
 }
 a:hover	{
 	color: #E63462;
+}
+nav	{
+	text-align: center;
 }

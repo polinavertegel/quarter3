@@ -60,6 +60,7 @@ body {
 	margin: 0 auto;
 	padding: 10px;
 	border: solid #F4F7A7 5px;
+	margin-top: 15px;
 }
 li{
 	content: "•"; color: #F4F7A7;
@@ -78,14 +79,13 @@ li{
 }
 a {
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	display: block;
 	margin: 7px auto;
 	padding: 4px;
 	text-align: center;
 	border: solid #F4F7A7 2px;
 	background-color: #5485F0;
 	font-size: 14px;
-	width: 40%;
+	width: 15%;
 }
 nav	{
 	text-align: center;
