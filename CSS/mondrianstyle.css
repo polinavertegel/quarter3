@@ -1,0 +1,105 @@
+body {
+	background-color: #F6F6F6;
+}
+html {
+	background-color: #F6F6F6;
+}
+#painting {
+	background-color: #FFF4DB;
+	width: 400px;
+	height: 400px;
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 10px 10px 0px #8D8D8D;
+}
+#toprow	{
+	height: 290px;
+}
+#bigbox	{
+	width: 290px;
+	height: 290px;
+}
+.red {
+	background-color: #CC3333;
+}
+.blue	{
+	background-color: blue;
+}
+.yellow	{
+	background-color: yellow;
+}
+.black	{
+	background-color: black;
+}
+.right	{
+	float: right;
+}
+#divider1 {
+	height: 290px;
+	width: 10px;
+}
+#topleftcolumn	{
+	height: 290px;
+}
+.mediumbox	{
+	width: 100px;
+	height:140px;
+}
+#divider2	{
+	height: 10px;
+	width: 100px;
+}
+#middlerow	{
+	height: 10px;
+}
+.divider4	{
+	height: 100px;
+	width: 10px;
+}
+.left {
+	float: left;
+}
+#smallbox	{
+	height: 100px;
+	width: 100px;
+}
+#bottomrow	{
+	height: 100px;
+}
+#divider3	{
+	height: 10px;
+	width: 20px;
+}
+.smallestbox	{
+	height: 45px;
+	width: 20px;
+}
+.cleared {
+	display: flow-root;
+}
+#bottomrightcolumn	{
+	height: 100px;
+}
+#rectangle	{
+	height: 100px;
+	width: 260px;
+}
+a {
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	margin: 7px auto;
+	padding: 4px;
+	text-align: center;
+	border: solid yellow 2px;
+	background-color: blue;
+	font-size: 14px;
+	width: 15%;
+	color: white;
+}
+nav	{
+	text-align: center;
+}
+h1	{
+	text-align: center;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
